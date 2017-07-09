@@ -1,2 +1,2 @@
 # script.module.issuereporter
-Issue reporting module for Kodi add-ons
+Github issue reporting module for Aussie Addons
